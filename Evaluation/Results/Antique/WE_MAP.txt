@@ -1,0 +1,201 @@
+Query: how can we get concentration onsomething?	AP: 0.0
+Query: Why doesn't the water fall off  earth if it's round?	AP: 0.171031746031746
+Query: How do I determine the charge of the iron ion in FeCl3?	AP: 0.16639384559989473
+Query: I have mice.How do I get rid of them humanely?	AP: 0.0008410428931875525
+Query: What does "see Leaflet" mean on Ept Pregnancy test?	AP: 0.19559602819365124
+Query: what is innate immunity?	AP: 0.10218409129699452
+Query: how can i lose 30 pounds by june3?	AP: 0.04576612903225807
+Query: What are the words to write the sound of raindrops, moving train & scribbling w/ pencil on paper figuratively?	AP: 0.041791604197901046
+Query: Why must I have an uncracked winshield in order to for my car to pass a safety inspeciton?	AP: 0.00957107408720312
+Query: What is Blaphsemy?	AP: 0.0
+Query: What's the proper way to express sorrow at a funeral?	AP: 0.09724330699562897
+Query: What do you speculate happened to Natalie Holloway in Aruba?	AP: 0.003623188405797101
+Query: How do people get hiccups, what are they, and what exactly is the best way to cure them?	AP: 0.0
+Query: Why do our elected federal senators and congressmen not have to live on regular S.S. like the rest of us?	AP: 0.05775729646697389
+Query: why do people judge a dog by what he looks like?	AP: 0.058981050149528404
+Query: Why do man rape little girls?	AP: 0.06093189964157706
+Query: what does the word remission mean when referring to cancer patients?	AP: 0.03529308220383735
+Query: how can we stop the spread of islam?	AP: 0.21218312937062936
+Query: How patient a driver are you?	AP: 0.10601578666994489
+Query: How is ego a part of our survival instincts?	AP: 0.17999278499278498
+Query: why do cats headbutt?	AP: 0.030659715066973132
+Query: How to cook Angus burgers?	AP: 0.005499438832772166
+Query: Why do people ask questions they know?	AP: 0.107637563313239
+Query: What is the difference between coolant and anti-freeze?	AP: 0.12925734396322633
+Query: Why is yawning contagious?	AP: 0.16295718180715296
+Query: why does milk cost more than gas per gallon?	AP: 0.1890455323595183
+Query: how do crooks  make  fake   passports  ?	AP: 0.10199420677361853
+Query: i have had loose stools for a week...how do i make it stop?	AP: 0.0012315270935960591
+Query: why some people behave so rude without reason,is it due to their own problem?	AP: 0.03617963314358001
+Query: how can I enjoy my time alone?	AP: 0.0418218954248366
+Query: how to make my car faster?	AP: 0.10555028356361312
+Query: What is the difference in a dried plum and a dried prune?	AP: 0.5001407840589127
+Query: How do i know if my gold fish is pregnant?	AP: 0.282278972235494
+Query: Why do people drink Cuervo when it tastes the same going down as coming up?	AP: 0.07509157509157507
+Query: how good is apple pie when it is cold?	AP: 0.33346767092644153
+Query: Why do Arabs and Mexicans look alike?	AP: 0.10920329670329669
+Query: Why can't teenagers vote?	AP: 0.062293488824101066
+Query: Why did the Bush Admin cover up 9/11?	AP: 0.002623456790123457
+Query: How do I keep black birds out of my bar-b-que grill?	AP: 0.02295566502463054
+Query: how do i find out if someone left me a life insurance policy?	AP: 0.04349395814913056
+Query: Why is Gordon Ramsey so popular?	AP: 0.003968253968253968
+Query: Why hot air rises up?	AP: 0.3592344817850815
+Query: How do I remove the SIMM card on a LG VX8300 Cell Phone?	AP: 0.3456176673567978
+Query: what is the history of indian music?	AP: 0.245297418630752
+Query: how soon can you drive on a newly paved driveway?	AP: 0.06293290043290044
+Query: Why is religious freedom more important today?	AP: 0.1674383836249697
+Query: what is direct borrowing, phonological borrowing, linguistic borrowing, cultural borrowing,intimate borrowing?	AP: 0.049358974358974364
+Query: Why do airplanes fly so high?	AP: 0.09949423247559894
+Query: what factors cause the Earth to heat unevenly?	AP: 0.17074175824175827
+Query: we have pork chops, veal chops, lamb chops, why is there not any beef chops ?	AP: 0.06617010256012815
+Query: how is the library consider as a heart of university?	AP: 0.020370370370370372
+Query: how cloning will affects our community?	AP: 0.0728364849833148
+Query: What does the sentence's mean?	AP: 0.0
+Query: Why do people feed poison (sugar) to their kids on Easter, and why are there no chocolate Jesuses?	AP: 0.07926829268292683
+Query: why does the sun shine?	AP: 0.008447742733457018
+Query: How can I keep my rabit indoors?	AP: 0.15886778380610617
+Query: Why is switching schools so depressing?	AP: 0.04067460317460317
+Query: how to get 277 V AC ?	AP: 0.10596513605442177
+Query: Why don't I have an asthma attack during sex?	AP: 0.19878663003663005
+Query: why girls are beautiful?	AP: 0.11538461538461539
+Query: how to handsew sequins?	AP: 0.0
+Query: if red bull is soo bad for people ,then why is it soo popular?	AP: 0.07367832167832167
+Query: How can I treat my Acne Scars?	AP: 0.07677218614718614
+Query: how to design road crust for national highways?	AP: 0.054756242568370986
+Query: Why do you have memories?	AP: 0.11590093021014074
+Query: Why don't commercial planes fly over the North Pole?	AP: 0.18950750104596262
+Query: How can I get rid of pimples on my back?	AP: 0.03788047325310952
+Query: My city just put a ban on pit bulls, how do we reverse the decision?	AP: 0.09022577520248329
+Query: What are the different types of sins and how are they caused?	AP: 0.04051282051282052
+Query: What causes skin discoloration, specifically, whitening of the skin between fingers?	AP: 0.00505050505050505
+Query: how do I go about getting copies of letters of commendation prsented to me from city of san diego?	AP: 0.05590655983801145
+Query: How were you saved from sin-and born again as Jesus says "Except you repent, and be born again..." How didYou?	AP: 0.16845547129638036
+Query: what is a wet dream?	AP: 0.16381916026806237
+Query: how to rollover 401k into real estate?	AP: 0.2952547837815349
+Query: why is lemonade at restaurants sometimes different?	AP: 0.08531746031746032
+Query: How do you improve fuel efficiency of a 2004, Ford Ikon?	AP: 0.0528322440087146
+Query: How do you prevent chicken from drying out when you cook it?	AP: 0.16438895024412928
+Query: How can we understand Islam and Muslims better?	AP: 0.14814943457678012
+Query: Well the black light is UV light.So if it is "black" how can it be "light" ?	AP: 0.17280792124542127
+Query: why do anxiety and depression seem to coexist?	AP: 0.09325046146592199
+Query: since i have premature ejaculation problem, how to satisfy my girl?	AP: 0.2834279143906473
+Query: what does 5 by 5 mean?	AP: 0.0
+Query: Why is April 19th important?	AP: 0.27087162084397814
+Query: Why do most cigarettes have the yellow filter?	AP: 0.05215419501133786
+Query: Why my GF feel like pissing during sexual intercourse?	AP: 0.005487804878048781
+Query: What's the Definition of a bloody mary?	AP: 0.2480257116620753
+Query: what is meant by mobile technology?	AP: 0.385672514619883
+Query: Why do we wee a lot in the cold weather especially at night?	AP: 0.019579475308641976
+Query: How come Compton is only designated for black people?	AP: 0.01050949050949051
+Query: how do i deap fry chicken?	AP: 0.14435612535612535
+Query: How do I know if a particular term or phrase is copyrighted?	AP: 0.09592841745542861
+Query: Why do parent put kids on restriction?	AP: 0.09110915435026107
+Query: Which auto insurance do you use and why?	AP: 0.02938988095238095
+Query: Does anybody know where i could get a free guide on how to train a siberian husky?	AP: 0.0017543859649122805
+Query: Why doesn't the bible make any sense?	AP: 0.057108131527804924
+Query: what are some good exercises to get rid of those love handles?	AP: 0.011494252873563218
+Query: what are mormens?	AP: 0.0
+Query: what are the symptoms of strep throat?	AP: 0.31993492618492625
+Query: Why  is  the   war continuing  in  Afghanistan?	AP: 0.06604938271604938
+Query: how could u get success?	AP: 0.03757617081920488
+Query: Why am I not able to concentrate on my studies?	AP: 0.17803776683087028
+Query: what are some signs that puberty is beginning?	AP: 0.26267873892672605
+Query: Why do men fantasized about raping women?	AP: 0.0
+Query: what is the term milky way?	AP: 0.0
+Query: why do some people take life so seriously?	AP: 0.14022690272690275
+Query: How amoeba catches its prey?	AP: 0.08228749028749029
+Query: I know how I got here, but how did you?	AP: 0.0033854166666666668
+Query: What does sholomister mean?	AP: 0.0
+Query: Why is GW dogged for not getting OBL yet killing Zarkawi is a non-event?	AP: 0.0
+Query: How do you sell a junk car without a title?	AP: 0.24202898550724636
+Query: why did the army have personal cuts in the mid 1990's?	AP: 0.011859582542694497
+Query: when it comes to religion why dont people realize history repeats itself?	AP: 0.046098302568890796
+Query: why is islam so hated in america?	AP: 0.043275634690579046
+Query: How can i stop my husband from exhuming my baby's body for compensation?	AP: 0.0
+Query: How can I get rid of the hicups?	AP: 0.03626373626373626
+Query: Why does my Black Lab howl to "Law and Order" theme song?	AP: 0.07580645161290323
+Query: Why are liberals so quick to defend Saddam?	AP: 0.10030864197530864
+Query: why do black people like fried chicken somuch?	AP: 0.23495720655153482
+Query: How does spending prolonged time in microgravity affect the bodies of astronauts?	AP: 0.0
+Query: how to get rid of a skunk?	AP: 0.0
+Query: Why do people say Germans are racists?	AP: 0.06335125448028672
+Query: what causes gray facial hair in men?	AP: 0.04197530864197531
+Query: Why do man Arabs hate the west ?	AP: 0.19318181818181818
+Query: How do i get my pitbull more agressive?	AP: 0.0875140169269231
+Query: what can make someones ear's stink?	AP: 0.03635851760851761
+Query: what do i do if i have not started my period in like almost 6 months?	AP: 0.0806899029823931
+Query: Why am I alive?	AP: 0.2131351834840207
+Query: Why a man float on water when he dies?	AP: 0.02892156862745098
+Query: What are the marketing gimmicks that will attract males?	AP: 0.12857142857142856
+Query: how can i cure the std or the sexually transmitted disease?	AP: 0.21012760659819485
+Query: what color you like the most and why?	AP: 0.0004205214465937763
+Query: why the media in US and Europe is always attacking the Arabs and Islam without finding the truth about them?	AP: 0.00930913809374017
+Query: what does the prefix "cyclo" mean in greek mythology?	AP: 0.05239535330261136
+Query: Why do Kamikaze pilots wear helmets?	AP: 0.2438304036031309
+Query: How Does Water Pressure Change?	AP: 0.12190176579969848
+Query: What are the names of some famous photographers and why do their work stand up?	AP: 0.006060606060606061
+Query: what is citriscidal?	AP: 0.0
+Query: Why does my friend buy...?	AP: 0.06138253313328332
+Query: How can I hunt down and punch the people that keep spamming me?	AP: 0.01893939393939394
+Query: why do i have pterofobia?	AP: 0.0
+Query: How do I find an Inmate at Southwest Detention Center 30755 Auld Rd., Murrieta, CA 92563?	AP: 0.012883358471593765
+Query: why live, when your in misery?	AP: 0.0
+Query: why is the new jersey smoking ban not considered unconstitutional?	AP: 0.12483130904183536
+Query: USA have Snow, Hurricanes, Flood, Earthquakes and politicians, Brazil only have politicians, why?	AP: 0.08322834572834571
+Query: Why do I have to dumb myself down all the time though I am highly undereducated?	AP: 0.0
+Query: Why do I keep seeing people on here 'dissing' on the soldiers in Iraq?	AP: 0.14081218845339513
+Query: Why don't fat people have to pay more for air travel?	AP: 0.03254769921436588
+Query: Why does asparugus make your pee stink?	AP: 0.11667557932263814
+Query: How is Catholicism not Christianity?	AP: 0.001526251526251526
+Query: Why does'nt America regard foriegn credentials?	AP: 0.0
+Query: Why did the founder of Daewoo get a 10-year jail sentence?	AP: 0.07827080327080325
+Query: why do wisdom varies from person to person?	AP: 0.12606161571678814
+Query: Why was I punished for being christlike?	AP: 0.010396825396825397
+Query: How can I heat the water within a 150 gal tank that's open to the atmosphere in Feb.?	AP: 0.12261904761904763
+Query: what does 'wet behind the ears' mean?	AP: 0.0064516129032258064
+Query: How can I get a cork out of, not into, a wine bottle without a corkscrew?	AP: 0.22139423076923073
+Query: What is the importance of absolute zero temperature?	AP: 0.406808187134503
+Query: How can I become a playa?	AP: 0.0
+Query: How can I develop leanbody and muscles?	AP: 0.039668889668889665
+Query: What is a Bro?	AP: 0.26613947809524985
+Query: how for is saturn from the sun?	AP: 0.06134358765937713
+Query: What is a nucleus?	AP: 0.24234160867624324
+Query: why do my baked potatos never taste near as good as when I get them in a nice restaurant?	AP: 0.006764560303580267
+Query: how does Ultraviolet Light Affects Seed Germination and plant growth?	AP: 0.3239962651727358
+Query: what cause the car to have white smoke coming from the muffler and making a kicking or knocking sounds?	AP: 0.023827014736105646
+Query: Why is the world so shallow?	AP: 0.21685635792778649
+Query: how were the witches tested in the salem witch trials?	AP: 0.1870945479641132
+Query: what is the punishment for child molestors?	AP: 0.0866115126273795
+Query: Why do only Humans have Finger prints?	AP: 0.31308760683760684
+Query: Freedom of Speech - why don't people understand how to use it?	AP: 0.12528827945784285
+Query: How do I grow taller?	AP: 0.05574424293010189
+Query: why do some animals hide in a dark place b4 they die?	AP: 0.11281311281311279
+Query: How do you get rid of wart on your hand a using home method?	AP: 0.18352515592334595
+Query: Couscous is a food from what origin?	AP: 0.0658456486042693
+Query: How to "LOSE"all body fat ?	AP: 0.12620787960154475
+Query: If you could be an element of weather, which would you choose, and why?	AP: 0.0078912540451002
+Query: What do you mean by "weed"?	AP: 0.2140430053801194
+Query: how does disneyland make it snow?	AP: 0.031862745098039214
+Query: what exemplifies effective customer service?	AP: 0.37214944268582295
+Query: what is minimalist cubisium?	AP: 0.2839506172839506
+Query: can anybody tell me what is a butler?	AP: 0.0
+Query: Why do we need to tell customer service/operator about our sickness in order to make appointment w/ a doctor?	AP: 0.11606138959080137
+Query: Muslims Are The Happiest People Ever, Why?	AP: 0.02593984962406015
+Query: Why does loving someone hurts like hell?	AP: 0.05413393191170969
+Query: Why is there brail on the keypads at drive up ATM's?	AP: 0.061957671957671955
+Query: how to care for a spiked dragon and what to feed them?	AP: 0.003213957759412305
+Query: What do doctors do when a patient has a Do Nor Resuscitate Order?	AP: 0.029411764705882353
+Query: what are some easy ways to get a toddler to go to sleep without being mean?	AP: 0.0
+Query: Causes and effects of the rise of Christanity?	AP: 0.0
+Query: How is th Chemistry is a basic of Science?	AP: 0.1777244955953396
+Query: what is artificial intelligence?	AP: 0.13599118273031313
+Query: What is the difference between an ox and a bull?	AP: 0.2751587301587302
+Query: how can I hide the cuts on my wrists?	AP: 0.031441398108064775
+Query: how can you be more brilliant?	AP: 0.3128772193989585
+Query: Why some men never wash their hands after using the Urinal/Toilet?	AP: 0.08122637631245952
+Query: how are braces put on and do they hurt a lot?	AP: 0.13906157038584882
+Query: What do you order at Taco Bell?	AP: 0.26075943114162003
+Query: why do we go to school if in the real world we dont use most of it?	AP: 0.14690940387534815
+Query: Why do some people only go to church on Easter Sunday and never go again until Christmas ?	AP: 0.23683261183261184
+Query: what is masturbat***?	AP: 0.0
+MAP: 0.1022493744897836

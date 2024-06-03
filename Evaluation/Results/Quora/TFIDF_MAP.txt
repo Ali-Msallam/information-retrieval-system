@@ -1,0 +1,146 @@
+Query: Which question should I ask on Quora?	AP: 0.0
+Query: What causes a nightmare?	AP: 0.2993197278911564
+Query: Does it matter whether humans are selfish or evil?	AP: 0.0
+Query: If I do not monetize YouTube videos & upload copyright content, then are there chances that Google may block my account?	AP: 0.0
+Query: Do animals kiss?	AP: 0.0
+Query: Who is disrupting Bloomberg?	AP: 0.0
+Query: What do you people think of Mr. Arvind Kejriwal and his AAP?	AP: 0.0
+Query: Do we exist?	AP: 0.0
+Query: What jobs are available with a bachelor’s degree in Homeland Security?	AP: 0.0
+Query: Which are the best books to understand calculus?	AP: 0.0
+Query: How can I learn about web design?	AP: 0.0
+Query: How do earthquake resistant buildings work?	AP: 0.0
+Query: What should I do to be a good Speaker?	AP: 0.0
+Query: How can I maintain my peace of mind?	AP: 0.0
+Query: Why do dreams look so real?	AP: 0.0
+Query: Are there any strong indications that Donald Trump does cocaine?	AP: 0.0
+Query: What's your bucket list?	AP: 0.0
+Query: How can I join MIT?	AP: 0.013888888888888888
+Query: Why are police lights red and/or blue?	AP: 0.0
+Query: Is it necessary to unlock bootloader before rooting Android phones?	AP: 0.0
+Query: How can I hack another WhatsApp account?	AP: 0.0
+Query: How much weight will I lose by not eating for a week?	AP: 0.0
+Query: What is the difference between sex and masturbation when it comes to pleasure?	AP: 0.0
+Query: How do I start solar energy business?	AP: 0.0
+Query: What is the reason Pakistan supports terrorism?	AP: 0.0
+Query: In your opinion, what is the best classical song of all time?	AP: 0.0
+Query: How are the conditions inside European Refugee Camps?	AP: 0.0
+Query: Is (male) circumcision required in Islam?	AP: 0.0
+Query: Where can I get super high quality photos for any photo booth services in Sydney?	AP: 0.0
+Query: What is fermentation? What are some products of fermentation?	AP: 0.0
+Query: What is most important in life - money or values?	AP: 0.0
+Query: Who is best Indian hacker?	AP: 0.0
+Query: How should you start learning programming?	AP: 0.013117283950617283
+Query: Is there a big chance that Trump will win the election?	AP: 0.0
+Query: How can I meet Suresh Raina?	AP: 0.0
+Query: How do I know if my online girlfriend truly loves me?	AP: 0.0
+Query: Why is the soul immortal?	AP: 0.0
+Query: Will Google's virtual monopoly in web search ever end? When?	AP: 0.0
+Query: Which is the best PMP Certification course provider in Bangalore?	AP: 0.0
+Query: How is the job situation in New Zealand for computer science graduates diploma?	AP: 0.0
+Query: What do we need to have the best Halloween?	AP: 0.0
+Query: What is the very first thing you remember in your life?	AP: 0.0
+Query: What is the reason behind the reactance of a capacitor?	AP: 0.0
+Query: What is value of 0?	AP: 0.0
+Query: How should I be a people person?	AP: 0.0
+Query: What is a good song for lyric prank?	AP: 0.0
+Query: Do you think of mathematics as art or science?	AP: 0.0
+Query: What are the best things to learn in life?	AP: 0.0
+Query: Can you be a sociopath with more psychopathic traits?	AP: 0.0
+Query: How can I meet Modi?	AP: 0.0303030303030303
+Query: Why do people belive in god?	AP: 0.0
+Query: What is your favourite story by Isaac Asimov?	AP: 0.0
+Query: What are the minimum GPA and GRE requirements of Florida State University?	AP: 0.0
+Query: What are the differences between Chinese and western etiquette?	AP: 0.0
+Query: Why does the Indian education system suck?	AP: 0.0
+Query: How do I hack anyone's WhatsApp account by my mobile?	AP: 0.0
+Query: Who invented the middle finger bad gesture?	AP: 1.0
+Query: How can you register a Maltipoo at the AKC?	AP: 1.0
+Query: How do I buy stocks?	AP: 0.0
+Query: How do you treat gunshot wounds?	AP: 0.0
+Query: What's the first thing you do after you wake up?	AP: 0.0625
+Query: How do I start a plant nursery?	AP: 0.0
+Query: How much money per month is enough to live as a graduate student in Birmingham, UK?	AP: 0.0
+Query: Why are there so many Muslims in Hindi film industry?	AP: 0.0
+Query: What would happen if one of the two candidates of the presidential election died on the morning of the election day?	AP: 0.0
+Query: What can I do right now to help the people of Aleppo?	AP: 0.0
+Query: How do I stop feeling insecure?	AP: 0.0
+Query: How often do you drink coffee (-based) drinks?	AP: 0.0
+Query: How is EEE in VSSUT, Burla?	AP: 0.25
+Query: What is the Syria civil war?	AP: 0.0
+Query: What is psychology?	AP: 0.0
+Query: How are the 6 mother sauces used in cooking?	AP: 0.0
+Query: Should Indian Railways be privatized?	AP: 0.0
+Query: Is creating satellite blogs and posting SEO-friendly posts considered black-hat SEO technique?	AP: 0.0
+Query: How can I speed up my Internet connection?	AP: 0.0
+Query: What are the best free and legal music download sites?	AP: 0.0
+Query: Have you ever had sex with a teacher?	AP: 0.0
+Query: How much does Uber driver earn in India?	AP: 0.0
+Query: Why do people go for mba after masters in engineering	AP: 0.0
+Query: Is it necessary to take a coaching class to prepare for the JEE Advanced?	AP: 0.0
+Query: How do I unpop a clogged ear?	AP: 0.0
+Query: Would you rather know when you will die or how you will die?	AP: 0.0
+Query: Why do some people sweat excessively in their armpits?	AP: 0.0
+Query: How can I make money from my car?	AP: 0.0
+Query: What will be repercussion of India's surgical strike to Pakistan?	AP: 0.0
+Query: What are the best strengths of Indian Army?	AP: 0.0
+Query: Why do some people still think Global warming a myth?	AP: 0.0
+Query: What was it like to meet Richard Feynman?	AP: 0.0
+Query: What should I do to make money online in India?	AP: 0.00813591377945975
+Query: How I can be good at handwriting?	AP: 0.3197278911564626
+Query: What is the current political scenario in India?	AP: 0.0
+Query: Why do people believe in God and how can they say he/she exists?	AP: 0.0
+Query: What should I do after completing my bcom?	AP: 0.0
+Query: Which is the best Teradata online training?	AP: 0.0
+Query: What is normalized score in gate exam?	AP: 0.0
+Query: What is the worst restaurant experience you ever had?	AP: 0.0
+Query: What is the lie you tell most often?	AP: 0.0
+Query: Which is best 32 inch led tv to buy below 20,000 INR?	AP: 1.0
+Query: How can medical doctors move into biotech or molecular biology?	AP: 0.0
+Query: What is a weak entity in DBMS? Why is it called weak?	AP: 0.0
+Query: How many times should one have sex a day?	AP: 0.0
+Query: Why are so many good quality answers collapsed on Quora?	AP: 0.017543859649122806
+Query: Was the White House entirely built by slaves?	AP: 0.0
+Query: What is the definition of "real programmer"?	AP: 0.0
+Query: What are the benefits of a joint family?	AP: 0.0
+Query: Where can I get best festival DJ services in Sydney?	AP: 0.25
+Query: Is Hillary Clinton Pro-War?	AP: 0.0
+Query: How can I crack JEE?	AP: 0.0
+Query: How Green tea is useful for reducing fat?	AP: 0.0
+Query: How can I reverse the effects of masturbation?	AP: 0.0
+Query: What's it like to be married to a pornstar?	AP: 0.0
+Query: How do I prepare IBPS PO exam in one month?	AP: 0.0
+Query: What is the reason behind having one small testicle and b=one bigger comparatively?	AP: 1.0
+Query: Why do people believe in God?	AP: 0.0
+Query: What was the poll tax? Why was it unpopular?	AP: 0.0
+Query: Why is there suffering in the world?	AP: 0.0
+Query: How can I improve my drawing skills?	AP: 0.0
+Query: What is the secrets of indian army?	AP: 0.0
+Query: What is an inanimate object?	AP: 1.0
+Query: What to do when you don't want to do?	AP: 0.0
+Query: What supplements can help me build muscle and burn fat?	AP: 0.0
+Query: What is the saddest thing you have ever seen on the internet?	AP: 0.0
+Query: Why is liberal arts education considered to be bad?	AP: 0.0
+Query: Can anyone be an entrepreneur? What does it take?	AP: 0.0
+Query: What will be the effect on share market after the banning of 500 and 1000 notes?	AP: 0.0
+Query: What is the best app for photo and video editing?	AP: 0.0
+Query: Do dating apps and sites really work?	AP: 0.0
+Query: Who will win IPL 2013?	AP: 0.0
+Query: How do I learn strumming on a guitar?	AP: 0.0
+Query: What are some ways to get leaner?	AP: 0.0
+Query: How do GST bill will benefit local people?	AP: 0.0794890873015873
+Query: How long did it take you to learn JavaScript?	AP: 0.0
+Query: How do you track someone with their cell phone?	AP: 0.0
+Query: What is the best way to outline your novel?	AP: 0.1111111111111111
+Query: Who is the most famous poets?	AP: 0.25
+Query: Why Tesla is not installing solar panels on cars?	AP: 0.0
+Query: How can I increse my weight?	AP: 0.0
+Query: Why do electrons repel each other?	AP: 0.0
+Query: What experience has most restored your faith in humanity?	AP: 0.05
+Query: Should Presidential candidates be required to release their tax returns?	AP: 0.0
+Query: Why are books better than television?	AP: 0.0
+Query: What is the best way to increase traffic for a new blog?	AP: 0.011009311925504596
+Query: What makes me smarter than other people?	AP: 0.0
+Query: How do you activate a Verizon phone over the phone?	AP: 0.0
+Query: What are some interesting things about animals?	AP: 0.0
+Query: What does contributing to open source actually mean?	AP: 0.0
